@@ -1,0 +1,147 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#yt{
+    height: 50px;
+    width: 90px;
+    position: absolute;
+    padding-left: 20px;
+    z-index: -1;
+    padding-top: -10px;
+    
+}
+#bar{
+    height: 10px;
+    width: 15px;
+    background: fixed;
+}
+#hhh{
+    height: 30px;
+    width: 500px;
+    border-radius: 60px;
+    position: absolute;
+    
+    
+}
+#mic{
+    float: right;
+
+   
+}
+#acc{
+    float: right;
+    padding-right: 200px;
+}
+#home{
+    height: 45px;
+    width: 200px;
+}
+#shorts{
+    height: 30px;
+    width: 120px;
+}
+#wl{
+    padding-left: 5px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-left: 5px;
+}
+#ysp{
+    height: 45px;
+    width: 200px;
+}
+#hb{
+    height: 40px;
+    width: 190px;
+}
+#asb{
+    height: 47px;
+    width: 185px;
+}
+#ft{
+    height: 47px;
+    width: 185px;
+}
+
+#ss{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    padding-left: 255px;
+    padding-top: 30px;
+}
+
+#ad2{
+
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    padding-left: 625px;
+    padding-top: 30px;
+}
+#text3{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    padding-left: 850px;
+    padding-top: 30px;
+}
+.www{
+    display: flex;
+    position: absolute;
+    padding-left: 250px;
+    padding-top: 85px;
+    display: flex;
+}
+.www>a{
+  padding-right: 10px;
+}
+
+#ad{
+    height: 163px;
+    width: 300px;
+}
+#vid3{
+    height: 163px;
+    width: 300px;
+}
+.kkk{
+    display: flex;
+    position: absolute;
+    display: flex;
+    padding-left: 250px;
+    padding-top: 310px;
+}
+#tttg{
+    height: 220px;
+    width: 300px;
+}
+#oppen{
+    height: 220px;
+    width: 300px;
+}
+#loki{
+    height: 230px;
+    width: 310px;
+}
+.ayush{
+    display: flex;
+    position: absolute;
+    display: flex;
+    padding-left: 250px;
+}
+#jvstin{
+    height: 220px;
+    width: 300px;
+}
+#Get{
+    height: 220px;
+    width: 300px;
+}
+#phone{
+    height: 220px;
+    width: 300px;
+}
